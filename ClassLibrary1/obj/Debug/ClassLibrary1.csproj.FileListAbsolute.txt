@@ -1,0 +1,5 @@
+E:\Test_Jenkins\Build\Test_Build\debug_1.0\ClassLibrary1.dll
+E:\Test_Jenkins\Build\Test_Build\debug_1.0\ClassLibrary1.pdb
+E:\Test_Jenkins\workspace\src\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+E:\Test_Jenkins\workspace\src\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Test_Jenkins\workspace\src\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
