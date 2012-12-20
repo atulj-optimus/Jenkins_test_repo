@@ -1,0 +1,5 @@
+E:\Test_Jenkins\Build\Test_Build\debug_1.0\WebApplication1.dll
+E:\Test_Jenkins\Build\Test_Build\debug_1.0\WebApplication1.pdb
+E:\Test_Jenkins\workspace\src\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Test_Jenkins\workspace\src\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Test_Jenkins\workspace\src\WebApplication1\obj\Debug\WebApplication1.pdb
